@@ -1,7 +1,10 @@
-div{
-    color :red;
-}
+
 body{
     background-color:aquamarine 
 }
-
+ .box-one{
+     color:red;
+     background-color:blueviolet;
+    height : 100px;
+    width: 100px
+    }
