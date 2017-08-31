@@ -1,10 +1,16 @@
 
 body{
     background-color:aquamarine 
-}
+} 
  .box-one{
-     color:red;
-     background-color:blueviolet;
+     color:green;
+     background-color:cornflowerblue;
+    height : 100px;
+    width: 100px
+    }
+ .box-two{
+     color:green;
+     background-color:red;
     height : 100px;
     width: 100px
     }
