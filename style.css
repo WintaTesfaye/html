@@ -2,6 +2,7 @@
 body{
     background-color:aquamarine 
 } 
+
  .box-one{
      color:green;
      background-color:cornflowerblue;
@@ -58,4 +59,17 @@ body{
     height : 100px;
     width: 100px;
  }
- 
+  
+  .box-nine{
+     color:green;
+     background-color:red;
+    height : 100px;
+    width: 100px;
+ }
+
+  .box-ten{
+     color:green;
+     background-color:cornflowerblue;
+    height : 100px;
+    width: 100px;
+ }
