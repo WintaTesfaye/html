@@ -1,4 +1,5 @@
 
+ 
 body{
     background-color:aquamarine 
 } 
@@ -72,4 +73,7 @@ body{
      background-color:cornflowerblue;
     height : 100px;
     width: 100px;
+    text-align:center;
+    font-family:verndana;
+    font-size:30px
  }
