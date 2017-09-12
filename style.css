@@ -3,7 +3,10 @@
 body{
     background-color:aquamarine 
 } 
-
+.btn{
+    width: 110px;
+    height: 30px;
+}
  .box-one{
      color:green;
      background-color:cornflowerblue;
@@ -11,14 +14,14 @@ body{
     width: 200px;
     text-align:center;
     font-family:verndana;
-    font-size:30px
+    font-size:5px
   }
  .box-two{
      color:green;
      background-color:cornflowerblue;
     height : 100px;
     width: 200px;
-    text-align:center;
+
     font-family:verndana;
     font-size:30px
   }
