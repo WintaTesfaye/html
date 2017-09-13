@@ -15,13 +15,20 @@ body{
     text-align:center;
     font-family:verndana;
     font-size:5px
-  }
  .box-two{
      color:green;
      background-color:cornflowerblue;
     height : 100px;
     width: 200px;
-
+    text-align:center;
+    font-family:verndana;
+    font-size:5px
+  }
+ .box-three{
+     color:green;
+     background-color:#6193ED;
+    height : 100px;
+    width: 200px;
     font-family:verndana;
     font-size:30px
   }
